@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  bypass edusoftweb
 // @author       Tiến Trần
-// @include      https://*.edu.vn/edusoftweb/*
+// @include      https://edusoftweb.edu.vn/*
 // @downloadURL  https://github.com/TGMaster/Bypass_Edusoftweb/raw/master/Bypass%20Edusoftweb%20Code.user.js
 // @grant        none
 // ==/UserScript==
